@@ -3,4 +3,5 @@
     <string name="this_one_takes_forever_to_load_lol">This one takes forever to load! LOL!</string>
     <string name="hmm">hmm</string>
     <string name="yep">yep!</string>
+    <string name="no_of_incorrect_attempts">No of incorrect attempts:</string>
 </resources>
